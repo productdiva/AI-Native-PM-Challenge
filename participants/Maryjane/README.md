@@ -13,5 +13,7 @@
 * Stakeholder Management
 * API Testing
 * Jira, ClickUp and Postman
-## Experience ##
-I've worked on products across FinTech, PropTech, FoodTech, SaaS, Marketplace, and Logistics, collaborating with designers, developers, and business teams from idea to delivery.
+## Challenge Progress ##
+* Week 1: Not started
+* Week 2: Submitted — Real-time Fintech Analytics Dashboard
+## Key Learnings ##
