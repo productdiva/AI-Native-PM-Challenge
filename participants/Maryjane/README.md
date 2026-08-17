@@ -15,5 +15,5 @@
 * Jira, ClickUp and Postman
 ## Challenge Progress ##
 * Week 1: Not started
-* Week 2: Submitted — Real-time Fintech Analytics Dashboard
+* Week 2: in progress...
 ## Key Learnings ##
